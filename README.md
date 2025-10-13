@@ -28,8 +28,8 @@ Developing frameworks for AI system security analysis, including vulnerability a
 
 ## 🌐 Links
 
-[![Personal Site](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://michele-mastroberti.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michele-mastroberti)
+[![Personal Site](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.mastroberti.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-mastroberti-b7a261a4/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mastroberti.michele@gmail.com)
 
 ---
