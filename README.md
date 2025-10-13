@@ -1,16 +1,38 @@
-## Hi there 👋
+# Michele Mastroberti
 
-<!--
-**Mic52M/Mic52M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Researcher** | AI Security & ML Specialist | University of Milan
 
-Here are some ideas to get you started:
+I'm a cybersecurity researcher specializing in **AI security** and **machine learning safety**, currently conducting research on assurance evaluation methodologies for artificial intelligence models. My focus is on robustness, fairness, and compliance of AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Research
+
+**Assurance Evaluation of AI Models** - Master's Research Project  
+Defining and implementing assurance checks for AI models, focusing on compliance with the European AI Act. The research evaluates non-functional properties such as robustness against attacks and model fairness.
+
+**AI Security & Compliance Analysis**  
+Developing frameworks for AI system security analysis, including vulnerability assessments and testing methodologies for supply chain security.
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+## 📚 Academic Background
+
+- **M.Sc. Cybersecurity** - University of Milan (2023-2025)
+- **B.Sc. Systems & Network Security** - University of Milan (2020-2023)  
+- **Research Focus**: AI Assurance, ML Security, Vulnerability Assessment
+
+## 🌐 Links
+
+[![Personal Site](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://michele-mastroberti.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michele-mastroberti)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mastroberti.michele@gmail.com)
+
+---
+
+*Bridging cybersecurity research with practical AI security solutions*
