@@ -1,8 +1,8 @@
 # Michele Mastroberti
 
-**Cybersecurity Researcher** | AI Security & ML Specialist | University of Milan
+**Cybersecurity Researcher**  University of Milan
 
-I'm a cybersecurity researcher specializing in **AI security** and **machine learning safety**, currently conducting research on assurance evaluation methodologies for artificial intelligence models. My focus is on robustness, fairness, and compliance of AI systems.
+I'm a cybersecurity researcher specializing in **AI security** and **machine learning safety**, currently conducting research on assurance evaluation methodologies for artificial intelligence models. 
 
 ## 🔬 Current Research
 
@@ -34,4 +34,3 @@ Developing frameworks for AI system security analysis, including vulnerability a
 
 ---
 
-*Bridging cybersecurity research with practical AI security solutions*
