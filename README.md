@@ -1,4 +1,4 @@
-# Michele Mastroberti
+<!--# Michele Mastroberti
 
 **Cybersecurity Researcher**  University of Milan
 
@@ -33,4 +33,4 @@ Developing frameworks for AI system security analysis, including vulnerability a
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mastroberti.michele@gmail.com)
 
 ---
-
+-->
